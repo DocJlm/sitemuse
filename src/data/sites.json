@@ -1,0 +1,1756 @@
+[
+  {
+    "id": "abstractchip",
+    "slug": "abstractchip",
+    "name": "AbstractChip",
+    "author": "AbstractChip",
+    "url": "https://abstractchip.cloud/",
+    "image": "/previews/abstractchip.webp",
+    "type": "personal",
+    "styles": ["brutalist", "bold", "illustration"],
+    "featured": true,
+    "rank": 1,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "橙黑撞色与错落卡片，把个人主页变成一张二次元海报。",
+      "en": "Orange, black, and an irregular card collage turn a personal homepage into an anime-inspired poster."
+    },
+    "takeaways": {
+      "zh": [
+        "用一个高饱和主色统领标题、按钮和分隔元素。",
+        "把项目、相册和个人介绍做成大小不同的入口卡片。",
+        "粗边框与硬阴影能强化卡片的可点击感。"
+      ],
+      "en": [
+        "Carry one saturated color across headings, buttons, and dividers.",
+        "Give projects, photos, and the author different-sized entry cards.",
+        "Use heavy outlines and hard shadows to make cards feel tangible."
+      ]
+    },
+    "bestFor": {
+      "zh": "个性首页、兴趣入口、项目导航",
+      "en": "Expressive homepages, interest hubs, project navigation"
+    }
+  },
+  {
+    "id": "craftz",
+    "slug": "craftz",
+    "name": "Takuya Matsuyama",
+    "author": "Takuya Matsuyama",
+    "url": "https://www.craftz.dog/",
+    "image": "/previews/craftz.webp",
+    "type": "personal",
+    "styles": ["3d", "dark", "playful"],
+    "featured": true,
+    "rank": 2,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "一张三维工作桌，搭配紧凑的个人介绍与作品入口。",
+      "en": "A miniature 3D desk gives a compact biography and portfolio a memorable focal point."
+    },
+    "takeaways": {
+      "zh": [
+        "把三维场景限制在首屏的一小块，给内容留出空间。",
+        "窄栏介绍用清晰小标题划分经历与兴趣。",
+        "让头像与三维场景共同表达作者身份。"
+      ],
+      "en": [
+        "Keep the 3D scene contained so the writing still has room.",
+        "Break a narrow biography into clear sections for work and interests.",
+        "Let the portrait and miniature scene express the same identity."
+      ]
+    },
+    "bestFor": {
+      "zh": "轻量三维首页、个人介绍",
+      "en": "Compact 3D homepages and biographies"
+    }
+  },
+  {
+    "id": "nic",
+    "slug": "nic",
+    "name": "Nic Chan",
+    "author": "Nic Chan",
+    "url": "https://nicchan.me/",
+    "image": "/previews/nic.webp",
+    "type": "portfolio",
+    "styles": ["retro", "playful", "bold"],
+    "featured": true,
+    "rank": 3,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "用经典桌面窗口、任务栏与图标组织当代前端作品。",
+      "en": "Classic desktop windows, a taskbar, and icons frame a contemporary frontend portfolio."
+    },
+    "takeaways": {
+      "zh": [
+        "把作品、客户和近期文章分配到不同窗口。",
+        "统一窗口边框与标题栏，让复古语言保持完整。",
+        "桌面图标让导航成为整体场景的一部分。"
+      ],
+      "en": [
+        "Assign work, clients, and recent posts to separate windows.",
+        "Keep borders and title bars consistent across the desktop.",
+        "Make navigation icons part of the scene rather than a separate menu."
+      ]
+    },
+    "bestFor": {
+      "zh": "复古桌面、作品与文章混合首页",
+      "en": "Retro desktops and combined work-and-writing homepages"
+    }
+  },
+  {
+    "id": "nachiket",
+    "slug": "nachiket",
+    "name": "Nachiket Pusalkar",
+    "author": "Nachiket Pusalkar",
+    "url": "https://nachiket.ca/",
+    "image": "/previews/nachiket.webp",
+    "type": "personal",
+    "styles": ["brutalist", "bold", "typography"],
+    "featured": false,
+    "rank": 4,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "点阵背景、黑色硬阴影与鲜明色块，为开发者主页增加性格。",
+      "en": "A dotted canvas, hard black shadows, and bright blocks give this developer homepage character."
+    },
+    "takeaways": {
+      "zh": [
+        "用点阵建立背景质感，同时保留纯色文字区域。",
+        "按钮与信息块共用黑边和偏移阴影。",
+        "大标题与等宽小字形成尺度反差。"
+      ],
+      "en": [
+        "Use dots for texture while keeping text surfaces calm.",
+        "Share the same outline and offset shadow across buttons and panels.",
+        "Contrast a large heading with compact monospace labels."
+      ]
+    },
+    "bestFor": {
+      "zh": "开发者主页、文章卡片",
+      "en": "Developer homepages and article cards"
+    }
+  },
+  {
+    "id": "maxime",
+    "slug": "maxime",
+    "name": "Maxime Heckel",
+    "author": "Maxime Heckel",
+    "url": "https://blog.maximeheckel.com/",
+    "image": "/previews/maxime.webp",
+    "type": "blog",
+    "styles": ["dark", "3d", "playful"],
+    "featured": false,
+    "rank": 5,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "图形实验进入博客首屏，视觉演示与技术写作相互支撑。",
+      "en": "Graphics experiments lead into a blog where visual demonstrations support technical writing."
+    },
+    "takeaways": {
+      "zh": [
+        "将自己的实验作品直接作为首屏视觉。",
+        "用深色背景突出发光粒子与图形细节。",
+        "把长文章中的概念做成可操作的可视化。"
+      ],
+      "en": [
+        "Use an original experiment as the hero visual.",
+        "Let a dark canvas emphasize particles and lighting.",
+        "Turn difficult concepts inside long articles into interactive visualizations."
+      ]
+    },
+    "bestFor": {
+      "zh": "图形学博客、互动技术文章",
+      "en": "Graphics blogs and interactive technical essays"
+    }
+  },
+  {
+    "id": "lynn",
+    "slug": "lynn",
+    "name": "Lynn Fisher",
+    "author": "Lynn Fisher",
+    "url": "https://lynnandtonic.com/",
+    "image": "/previews/lynn.webp",
+    "type": "personal",
+    "styles": ["retro", "editorial", "typography"],
+    "featured": false,
+    "rank": 6,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "纸张质感与目录式导航，让个人网站像一本有自己封面的书。",
+      "en": "Paper texture and a contents-page navigation make the site feel like a book with its own cover."
+    },
+    "takeaways": {
+      "zh": [
+        "把导航设计成目录，形成明确的阅读隐喻。",
+        "用有性格的标题字体承担主要视觉表达。",
+        "保存历年版本，展示个人设计风格的演变。"
+      ],
+      "en": [
+        "Turn navigation into a table of contents with a clear reading metaphor.",
+        "Let a distinctive display face carry the visual identity.",
+        "Keep an archive of redesigns to show how a personal style evolves."
+      ]
+    },
+    "bestFor": {
+      "zh": "书籍感博客、改版档案",
+      "en": "Book-like blogs and redesign archives"
+    },
+    "links": [
+      {
+        "label": {
+          "zh": "历年设计档案",
+          "en": "Redesign archive"
+        },
+        "url": "https://lynnandtonic.com/archive/"
+      }
+    ]
+  },
+  {
+    "id": "bruno",
+    "slug": "bruno",
+    "name": "Bruno Simon",
+    "author": "Bruno Simon",
+    "url": "https://bruno-simon.com/",
+    "image": "/previews/bruno.webp",
+    "type": "playground",
+    "styles": ["3d", "playful", "bold"],
+    "featured": false,
+    "rank": 7,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "小车、灯光与立体场景，让访问作品集成为一次游玩。",
+      "en": "A small vehicle, lighting, and a three-dimensional world make the portfolio a place to play."
+    },
+    "takeaways": {
+      "zh": [
+        "用可探索场景替代传统的作品目录。",
+        "进入前的场景预览先交代世界的气氛。",
+        "让驾驶与发现作品成为同一个过程。"
+      ],
+      "en": [
+        "Replace a conventional project index with an explorable world.",
+        "Set the atmosphere with a scene preview before entry.",
+        "Connect movement through the world with discovering projects."
+      ]
+    },
+    "bestFor": {
+      "zh": "独立互动首页、创意实验",
+      "en": "Interactive landing pages and creative experiments"
+    }
+  },
+  {
+    "id": "henry",
+    "slug": "henry",
+    "name": "Henry Heffernan",
+    "author": "Henry Heffernan",
+    "url": "https://henryheffernan.com/",
+    "image": "/previews/henry.webp",
+    "type": "portfolio",
+    "styles": ["3d", "retro", "playful"],
+    "featured": false,
+    "rank": 8,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "复古电脑与办公室微缩场景，承载可进入的个人桌面。",
+      "en": "A retro computer in a miniature office opens into a personal desktop."
+    },
+    "takeaways": {
+      "zh": [
+        "用真实物件的空间关系建立一个可理解的三维入口。",
+        "开机过程与桌面窗口使用一致的年代语言。",
+        "将项目入口装进电脑屏幕，建立探索的层次。"
+      ],
+      "en": [
+        "Use familiar objects to make a 3D entrance easy to understand.",
+        "Keep the boot sequence and desktop windows in the same visual era.",
+        "Put project navigation inside the monitor to add a layer of discovery."
+      ]
+    },
+    "bestFor": {
+      "zh": "三维个人空间、复古作品集",
+      "en": "3D personal spaces and retro portfolios"
+    },
+    "links": [
+      {
+        "label": {
+          "zh": "桌面内部站",
+          "en": "Desktop site"
+        },
+        "url": "https://os.henryheffernan.com/"
+      }
+    ]
+  },
+  {
+    "id": "brittany",
+    "slug": "brittany",
+    "name": "Brittany Chiang",
+    "author": "Brittany Chiang",
+    "url": "https://brittanychiang.com/",
+    "image": "/previews/brittany.webp",
+    "type": "portfolio",
+    "styles": ["dark", "minimal"],
+    "featured": false,
+    "rank": 9,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "深蓝底色与左右分栏，让经历、作品和个人介绍各有位置。",
+      "en": "A deep navy canvas and split layout give biography, experience, and projects a clear place."
+    },
+    "takeaways": {
+      "zh": [
+        "左侧保持身份与导航，右侧承载较长内容。",
+        "用克制的颜色层次区分正文与辅助信息。",
+        "项目卡片将标题、说明和技术标签组合成一个整体。"
+      ],
+      "en": [
+        "Keep identity and navigation on the left while longer content lives on the right.",
+        "Separate body text and metadata with restrained color levels.",
+        "Group project titles, descriptions, and technology tags into one unit."
+      ]
+    },
+    "bestFor": {
+      "zh": "开发者履历、深色作品集",
+      "en": "Developer résumés and dark portfolios"
+    },
+    "links": [
+      {
+        "label": {
+          "zh": "第四版作品集",
+          "en": "Version 4 portfolio"
+        },
+        "url": "https://v4.brittanychiang.com/"
+      }
+    ]
+  },
+  {
+    "id": "p5aholic",
+    "slug": "p5aholic",
+    "name": "Keita Yamada",
+    "author": "Keita Yamada",
+    "url": "https://p5aholic.me/",
+    "image": "/previews/p5aholic.webp",
+    "type": "portfolio",
+    "styles": ["minimal", "typography", "3d"],
+    "featured": false,
+    "rank": 10,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "灰阶生成图形占据画面，纤细文字沿边界组织作品与身份。",
+      "en": "Grayscale generative graphics fill the canvas while fine typography organizes identity and work around its edges."
+    },
+    "takeaways": {
+      "zh": [
+        "用单色图形获得视觉张力，而不依赖多种颜色。",
+        "让文字与图形共享清楚的边界和对齐关系。",
+        "以小字号导航反衬大尺度背景。"
+      ],
+      "en": [
+        "Find visual tension in monochrome graphics instead of many colors.",
+        "Align text and graphics to a clearly defined frame.",
+        "Use small navigation to contrast with the scale of the background."
+      ]
+    },
+    "bestFor": {
+      "zh": "实验性首页、生成艺术背景",
+      "en": "Experimental homepages and generative backgrounds"
+    }
+  },
+  {
+    "id": "josh",
+    "slug": "josh",
+    "name": "Josh W. Comeau",
+    "author": "Josh W. Comeau",
+    "url": "https://www.joshwcomeau.com/",
+    "image": "/previews/josh.webp",
+    "type": "blog",
+    "styles": ["illustration", "playful", "editorial"],
+    "featured": false,
+    "rank": 11,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "柔和云层与友好的文章编排，让技术博客拥有轻松的阅读气氛。",
+      "en": "Soft clouds and approachable article layouts give technical writing a welcoming atmosphere."
+    },
+    "takeaways": {
+      "zh": [
+        "首屏插画建立气氛，下方仍然以文章为中心。",
+        "目录与热门内容为长篇教程提供第二条入口。",
+        "把动画和交互演示放到真正需要解释的内容里。"
+      ],
+      "en": [
+        "Use the hero illustration to set a mood without displacing the articles.",
+        "Offer categories and popular posts as alternative reading paths.",
+        "Place interaction where it helps explain a concept."
+      ]
+    },
+    "bestFor": {
+      "zh": "教程博客、文章交互组件",
+      "en": "Tutorial blogs and interactive article components"
+    }
+  },
+  {
+    "id": "maggie",
+    "slug": "maggie",
+    "name": "Maggie Appleton",
+    "author": "Maggie Appleton",
+    "url": "https://maggieappleton.com/",
+    "image": "/previews/maggie.webp",
+    "type": "blog",
+    "styles": ["editorial", "typography", "illustration"],
+    "featured": false,
+    "rank": 12,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "大号衬线文字与数字花园结构，连接文章、笔记和视觉思考。",
+      "en": "Large serif typography and a digital-garden structure connect essays, notes, and visual thinking."
+    },
+    "takeaways": {
+      "zh": [
+        "用一句具体的自我定位代替冗长介绍。",
+        "把完整文章与仍在生长的笔记分开组织。",
+        "让插画帮助解释思想，而不只是装饰封面。"
+      ],
+      "en": [
+        "Lead with a precise statement of what the author makes.",
+        "Separate finished essays from notes that are still developing.",
+        "Use illustrations to explain ideas rather than merely decorate covers."
+      ]
+    },
+    "bestFor": {
+      "zh": "数字花园、视觉长文",
+      "en": "Digital gardens and visual essays"
+    }
+  },
+  {
+    "id": "rauno",
+    "slug": "rauno",
+    "name": "Rauno Freiberg",
+    "author": "Rauno Freiberg",
+    "url": "https://rauno.me/",
+    "image": "/previews/rauno.webp",
+    "type": "portfolio",
+    "styles": ["bold", "playful", "typography"],
+    "featured": false,
+    "rank": 13,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "高对比文字与亮黄色图形构成充满实验感的交互设计名片。",
+      "en": "High-contrast text and a bright yellow form create an experimental interaction-design calling card."
+    },
+    "takeaways": {
+      "zh": [
+        "把身份描述本身做成主视觉，而不是另加大图。",
+        "高饱和图形只用在最需要注意的位置。",
+        "作品与设计笔记共存，让过程也成为展示内容。"
+      ],
+      "en": [
+        "Make the identity statement itself the hero graphic.",
+        "Reserve saturated shapes for a deliberate focal point.",
+        "Show design notes alongside finished work to expose the process."
+      ]
+    },
+    "bestFor": {
+      "zh": "设计师名片、交互作品展示",
+      "en": "Designer calling cards and interaction showcases"
+    }
+  },
+  {
+    "id": "emil",
+    "slug": "emil",
+    "name": "Emil Kowalski",
+    "author": "Emil Kowalski",
+    "url": "https://emilkowal.ski/",
+    "image": "/previews/emil.webp",
+    "type": "personal",
+    "styles": ["minimal", "editorial"],
+    "featured": false,
+    "rank": 14,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "极简文字页把注意力交给组件作品与交互设计文章。",
+      "en": "A restrained text page puts component work and interaction-design writing first."
+    },
+    "takeaways": {
+      "zh": [
+        "用短小分组表达现在的工作、项目与写作。",
+        "窄阅读宽度让技术介绍容易连续阅读。",
+        "用文章解释组件取舍，给作品补足上下文。"
+      ],
+      "en": [
+        "Group current work, projects, and writing into short sections.",
+        "Keep a narrow reading measure for continuous text.",
+        "Explain component decisions in articles alongside the demos."
+      ]
+    },
+    "bestFor": {
+      "zh": "极简主页、组件作者博客",
+      "en": "Minimal homepages and component-author blogs"
+    }
+  },
+  {
+    "id": "antfu",
+    "slug": "antfu",
+    "name": "Anthony Fu",
+    "author": "Anthony Fu",
+    "url": "https://antfu.me/",
+    "image": "/previews/antfu.webp",
+    "type": "personal",
+    "styles": ["minimal", "editorial"],
+    "featured": false,
+    "rank": 15,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "开源项目、写作与摄影在简洁的个人页面中自然并列。",
+      "en": "Open-source projects, writing, and photography sit naturally together on a simple personal page."
+    },
+    "takeaways": {
+      "zh": [
+        "把代表项目直接嵌入介绍，让履历可以继续探索。",
+        "为摄影、演讲和博客提供同等清楚的入口。",
+        "小图标导航节省空间，但保留明确的可访问名称。"
+      ],
+      "en": [
+        "Link representative projects directly from the introduction.",
+        "Give photography, talks, and writing equally clear entry points.",
+        "Keep compact icon navigation meaningfully labeled."
+      ]
+    },
+    "bestFor": {
+      "zh": "多兴趣主页、开源作者介绍",
+      "en": "Multi-interest homepages and open-source profiles"
+    },
+    "links": [
+      {
+        "label": {
+          "zh": "生成艺术实验",
+          "en": "Generative experiments"
+        },
+        "url": "https://100.antfu.me/"
+      }
+    ]
+  },
+  {
+    "id": "innei",
+    "slug": "innei",
+    "name": "Innei",
+    "author": "Innei",
+    "url": "https://innei.in/",
+    "image": "/previews/innei.webp",
+    "type": "blog",
+    "styles": ["minimal", "playful"],
+    "featured": false,
+    "rank": 16,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "柔和色彩与居中的个人介绍，为写作和项目留出轻盈入口。",
+      "en": "Soft colors and a centered introduction create a light entry into writing and projects."
+    },
+    "takeaways": {
+      "zh": [
+        "在介绍中用少量强调色突出关键词。",
+        "头像、简述和社交入口组成完整的身份区。",
+        "将近期写作放在个人介绍之后，连接人和内容。"
+      ],
+      "en": [
+        "Highlight a few key words instead of coloring the entire heading.",
+        "Combine portrait, short biography, and social links into one identity area.",
+        "Follow the introduction with recent writing to connect the person to their work."
+      ]
+    },
+    "bestFor": {
+      "zh": "中文个人博客、个人品牌首页",
+      "en": "Chinese personal blogs and identity-led homepages"
+    }
+  },
+  {
+    "id": "zhilu",
+    "slug": "zhilu",
+    "name": "纸鹿摸鱼处",
+    "author": "纸鹿本鹿",
+    "url": "https://blog.zhilu.site/",
+    "image": "/previews/zhilu.webp",
+    "type": "blog",
+    "styles": ["editorial", "minimal"],
+    "featured": false,
+    "rank": 17,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "侧栏导航、精选横排和文章摘要，为中文内容建立清楚层级。",
+      "en": "Sidebar navigation, a horizontal featured row, and article excerpts create clear layers for Chinese writing."
+    },
+    "takeaways": {
+      "zh": [
+        "将常驻导航与文章流分开，降低内容密度感。",
+        "精选内容用封面横排，普通文章保持纵向浏览。",
+        "日期、字数和分类放在次级位置，不抢标题。"
+      ],
+      "en": [
+        "Separate persistent navigation from the article stream.",
+        "Use covers for featured posts and a vertical list for everyday writing.",
+        "Keep date, length, and category subordinate to the title."
+      ]
+    },
+    "bestFor": {
+      "zh": "中文文章列表、内容较多的博客",
+      "en": "Chinese article indexes and content-rich blogs"
+    },
+    "links": [
+      {
+        "label": {
+          "zh": "个人主页",
+          "en": "Personal homepage"
+        },
+        "url": "https://www.zhilu.site/"
+      }
+    ]
+  },
+  {
+    "id": "topon",
+    "slug": "topon",
+    "name": "TOPON",
+    "author": "TOPON",
+    "url": "https://topon.dev/",
+    "image": "/previews/topon.webp",
+    "type": "portfolio",
+    "styles": ["brutalist", "bold", "typography"],
+    "featured": false,
+    "rank": 18,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "网格、荧光色和描边大字，把技术履历变成一张开发者海报。",
+      "en": "Grids, fluorescent accents, and outlined lettering turn a technical résumé into a developer poster."
+    },
+    "takeaways": {
+      "zh": [
+        "描边标题与实心文字形成层次。",
+        "用一个亮色集中标记主要按钮与状态。",
+        "技能和项目沿用文件名、终端等统一语汇。"
+      ],
+      "en": [
+        "Contrast outlined headings with solid text.",
+        "Concentrate one bright accent on primary actions and status.",
+        "Reuse a consistent vocabulary of files and terminals across skills and projects."
+      ]
+    },
+    "bestFor": {
+      "zh": "海报式作品集、技术项目介绍",
+      "en": "Poster-like portfolios and technical project pages"
+    }
+  },
+  {
+    "id": "mxb",
+    "slug": "mxb",
+    "name": "Max Böck",
+    "author": "Max Böck",
+    "url": "https://mxb.dev/",
+    "image": "/previews/mxb.webp",
+    "type": "blog",
+    "styles": ["editorial", "playful", "typography"],
+    "featured": false,
+    "rank": 19,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "大号衬线标题搭配可选主题，让个人博客兼具阅读感与可玩性。",
+      "en": "Large serif headings and selectable themes give a personal blog both readability and playfulness."
+    },
+    "takeaways": {
+      "zh": [
+        "用一句短标题说明作者做什么。",
+        "通过主题选择让同一套内容呈现不同气质。",
+        "精选文章同时展示标题与说明，方便快速判断。"
+      ],
+      "en": [
+        "Say what the author does in a short, direct heading.",
+        "Let theme choices change the mood of the same content.",
+        "Pair featured titles with explanations to help readers choose."
+      ]
+    },
+    "bestFor": {
+      "zh": "主题切换、技术博客首页",
+      "en": "Theme switching and technical blog homepages"
+    }
+  },
+  {
+    "id": "tania",
+    "slug": "tania",
+    "name": "Tania Rascia",
+    "author": "Tania Rascia",
+    "url": "https://www.taniarascia.com/",
+    "image": "/previews/tania.webp",
+    "type": "blog",
+    "styles": ["editorial", "retro", "playful"],
+    "featured": false,
+    "rank": 20,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "侧栏、个人时间线与像素小图，让知识库保留个人气息。",
+      "en": "A sidebar, personal timeline, and pixel illustration keep a knowledge collection personal."
+    },
+    "takeaways": {
+      "zh": [
+        "时间线把作者经历压缩为容易扫读的段落。",
+        "专题书架给旧文章提供新的阅读路径。",
+        "小型像素插画为文字密集页面增加识别度。"
+      ],
+      "en": [
+        "Condense a biography into a scannable timeline.",
+        "Use curated shelves to create new paths through older posts.",
+        "Add a small pixel illustration to give a dense text page identity."
+      ]
+    },
+    "bestFor": {
+      "zh": "知识型博客、专题归档",
+      "en": "Knowledge blogs and curated topic archives"
+    }
+  },
+  {
+    "id": "dave",
+    "slug": "dave",
+    "name": "Dave Rupert",
+    "author": "Dave Rupert",
+    "url": "https://daverupert.com/",
+    "image": "/previews/dave.webp",
+    "type": "blog",
+    "styles": ["typography", "editorial"],
+    "featured": false,
+    "rank": 21,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "巨大的描边名字与朴素文章列表，形成直接而鲜明的博客首页。",
+      "en": "An oversized outlined name contrasts with a plain article list for a direct, distinctive homepage."
+    },
+    "takeaways": {
+      "zh": [
+        "用作者名字作为视觉锚点。",
+        "让正文回归朴素列表，平衡标题的表现力。",
+        "文章标题下用简短说明交代阅读收益。"
+      ],
+      "en": [
+        "Use the author’s name as the visual anchor.",
+        "Balance expressive lettering with a plain article list.",
+        "Add a brief line under each title to explain why it is worth reading."
+      ]
+    },
+    "bestFor": {
+      "zh": "文字型博客、标题字体表达",
+      "en": "Text-first blogs and expressive mastheads"
+    }
+  },
+  {
+    "id": "yunyoujun",
+    "slug": "yunyoujun",
+    "name": "云游君的小站",
+    "author": "云游君",
+    "url": "https://www.yunyoujun.cn/",
+    "image": "/previews/yunyoujun.webp",
+    "type": "personal",
+    "styles": ["illustration", "playful", "minimal"],
+    "featured": false,
+    "rank": 22,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "浅色云雾背景、头像与紧凑链接，构成轻盈的个人兴趣入口。",
+      "en": "A pale cloud-like background, avatar, and compact links form a light personal-interest hub."
+    },
+    "takeaways": {
+      "zh": [
+        "用低对比背景承载个人气氛，不压过主体。",
+        "将常用兴趣与社交链接组织成紧凑图标群。",
+        "首屏只保留自我介绍，把深入内容交给下方入口。"
+      ],
+      "en": [
+        "Use a low-contrast background to set the mood without overwhelming the content.",
+        "Group interests and social destinations into compact icon sets.",
+        "Keep the opening focused on identity and let links lead deeper."
+      ]
+    },
+    "bestFor": {
+      "zh": "兴趣主页、轻量个人入口",
+      "en": "Interest-driven homepages and compact personal hubs"
+    }
+  },
+  {
+    "id": "xaoxuu",
+    "slug": "xaoxuu",
+    "name": "XAOXUU",
+    "author": "XAOXUU",
+    "url": "https://xaoxuu.com/",
+    "image": "/previews/xaoxuu.webp",
+    "type": "blog",
+    "styles": ["minimal", "editorial"],
+    "featured": false,
+    "rank": 23,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "稳定侧栏配合纵向文章流，适合将博客与项目文档长期放在一起。",
+      "en": "A persistent sidebar and vertical article stream support both blogging and project documentation."
+    },
+    "takeaways": {
+      "zh": [
+        "把文章分类、项目和搜索放入稳定的导航区。",
+        "标题与摘要之间保留足够间距。",
+        "专栏与归档给持续增加的内容提供组织方式。"
+      ],
+      "en": [
+        "Keep categories, projects, and search in a stable navigation area.",
+        "Give titles and excerpts enough separation.",
+        "Use series and archives to organize a growing body of work."
+      ]
+    },
+    "bestFor": {
+      "zh": "长文博客、项目文档、专栏",
+      "en": "Long-form blogs, documentation, and article series"
+    }
+  },
+  {
+    "id": "airing",
+    "slug": "airing",
+    "name": "Airing",
+    "author": "Airing",
+    "url": "https://ursb.me/",
+    "image": "/previews/airing.webp",
+    "type": "personal",
+    "styles": ["dark", "3d", "playful"],
+    "featured": false,
+    "rank": 24,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "可互动的小熊工作角与深色内容区，让个人站多了一点生活感。",
+      "en": "An interactive bear workspace and dark content panels give a personal site a lived-in feel."
+    },
+    "takeaways": {
+      "zh": [
+        "用一个可互动角色代替静态装饰。",
+        "角色的日常动作与作者的工作主题呼应。",
+        "让文章入口留在场景之后，兼顾趣味与内容。"
+      ],
+      "en": [
+        "Use an interactive character in place of a static ornament.",
+        "Connect the character’s small actions to the author’s working life.",
+        "Follow the scene with writing so play and content both have a place."
+      ]
+    },
+    "bestFor": {
+      "zh": "角色互动首页、个人生活与技术博客",
+      "en": "Character-led homepages and personal tech blogs"
+    }
+  },
+  {
+    "id": "neal",
+    "slug": "neal",
+    "name": "Neal.fun",
+    "author": "Neal Agarwal",
+    "url": "https://neal.fun/",
+    "image": "/previews/neal.webp",
+    "type": "playground",
+    "styles": ["playful", "illustration", "bold"],
+    "featured": false,
+    "rank": 25,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "每个小实验都有独立视觉，统一缩略图网格让人想一路点下去。",
+      "en": "Each experiment has its own visual identity, held together by a consistent thumbnail grid."
+    },
+    "takeaways": {
+      "zh": [
+        "让项目封面直接展示玩法而不只是标题。",
+        "统一卡片尺寸，为多种画风提供共同秩序。",
+        "简短页面说明把浏览重点留给实验本身。"
+      ],
+      "en": [
+        "Let project covers hint at the interaction rather than just show a title.",
+        "Use consistent thumbnail dimensions to organize varied visual styles.",
+        "Keep the introduction short so the experiments lead."
+      ]
+    },
+    "bestFor": {
+      "zh": "个人实验室、小游戏索引",
+      "en": "Personal playgrounds and small-game indexes"
+    }
+  },
+  {
+    "id": "nicky",
+    "slug": "nicky",
+    "name": "Nicky Case",
+    "author": "Nicky Case",
+    "url": "https://ncase.me/",
+    "image": "/previews/nicky.webp",
+    "type": "playground",
+    "styles": ["illustration", "playful"],
+    "featured": false,
+    "rank": 26,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "手绘感与可玩解释并存，作品列表充满作者自己的语气。",
+      "en": "A hand-drawn sensibility and playable explanations give the work index a distinct authorial voice."
+    },
+    "takeaways": {
+      "zh": [
+        "让缩略图延续作品里的绘画语言。",
+        "用直白的小标题区分可玩内容与其他作品。",
+        "将订阅入口放在介绍旁边，方便关注后续创作。"
+      ],
+      "en": [
+        "Carry the illustration language of each project into its thumbnail.",
+        "Use direct section labels to distinguish playable work.",
+        "Place subscription options beside the introduction for returning readers."
+      ]
+    },
+    "bestFor": {
+      "zh": "互动故事、手绘风作品页",
+      "en": "Interactive stories and illustrated work indexes"
+    },
+    "links": [
+      {
+        "label": {
+          "zh": "作者博客",
+          "en": "Author’s blog"
+        },
+        "url": "https://blog.ncase.me/"
+      }
+    ]
+  },
+  {
+    "id": "jhey",
+    "slug": "jhey",
+    "name": "Jhey Tompkins",
+    "author": "Jhey Tompkins",
+    "url": "https://jhey.dev/",
+    "image": "/previews/jhey.webp",
+    "type": "personal",
+    "styles": ["minimal", "playful", "typography"],
+    "featured": false,
+    "rank": 27,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "克制的介绍与小型交互线索，把精力留给实验作品。",
+      "en": "A restrained introduction and small interactive cues direct attention toward experimental work."
+    },
+    "takeaways": {
+      "zh": [
+        "把一个短句作为个人定位的核心。",
+        "小型动态元素比大面积动画更容易融入文字页。",
+        "从介绍直接链接到实验，缩短发现作品的路径。"
+      ],
+      "en": [
+        "Build the identity around one short statement.",
+        "Let small interactive elements sit naturally within a text page.",
+        "Link directly from the introduction to experiments."
+      ]
+    },
+    "bestFor": {
+      "zh": "设计工程师主页、微交互参考",
+      "en": "Design-engineer homepages and micro-interactions"
+    }
+  },
+  {
+    "id": "shud",
+    "slug": "shud",
+    "name": "Shu Ding",
+    "author": "Shu Ding",
+    "url": "https://shud.in/",
+    "image": "/previews/shud.webp",
+    "type": "personal",
+    "styles": ["minimal", "editorial"],
+    "featured": false,
+    "rank": 28,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "极轻的侧导航与窄文字栏，让作品、思考和图片各自安静展开。",
+      "en": "A light side navigation and narrow text column give work, thoughts, and images space to breathe."
+    },
+    "takeaways": {
+      "zh": [
+        "少量链接足以支撑个人网站的主结构。",
+        "通过间距区分段落，减少容器与边框。",
+        "正文链接让经历和项目自然连接。"
+      ],
+      "en": [
+        "Use a few links to support the main site structure.",
+        "Separate paragraphs with spacing instead of extra containers.",
+        "Connect experience and projects through inline links."
+      ]
+    },
+    "bestFor": {
+      "zh": "极简个人主页、文字介绍",
+      "en": "Minimal personal sites and written introductions"
+    }
+  },
+  {
+    "id": "sindre",
+    "slug": "sindre",
+    "name": "Sindre Sorhus",
+    "author": "Sindre Sorhus",
+    "url": "https://sindresorhus.com/",
+    "image": "/previews/sindre.webp",
+    "type": "personal",
+    "styles": ["minimal", "bold"],
+    "featured": false,
+    "rank": 29,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "头像、渐变名字与两个主要入口，快速说明独立开发者身份。",
+      "en": "A portrait, gradient name, and two primary links communicate an independent developer’s identity quickly."
+    },
+    "takeaways": {
+      "zh": [
+        "首屏只突出最重要的产品与代码入口。",
+        "头像与姓名建立比技能清单更直接的身份感。",
+        "将完整产品目录留在独立页面。"
+      ],
+      "en": [
+        "Prioritize the two most important destinations: apps and code.",
+        "Use a portrait and name for a direct sense of identity.",
+        "Keep the full product catalog on its own page."
+      ]
+    },
+    "bestFor": {
+      "zh": "独立开发者名片、产品入口",
+      "en": "Independent developer profiles and product hubs"
+    }
+  },
+  {
+    "id": "adham",
+    "slug": "adham",
+    "name": "Adham Dannaway",
+    "author": "Adham Dannaway",
+    "url": "https://www.adhamdannaway.com/",
+    "image": "/previews/adham.webp",
+    "type": "portfolio",
+    "styles": ["illustration", "playful"],
+    "featured": false,
+    "rank": 30,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "半边设计、半边代码的人像，把双重职业身份变成一眼能懂的画面。",
+      "en": "A portrait split between design and code makes a dual professional identity instantly understandable."
+    },
+    "takeaways": {
+      "zh": [
+        "让人物视觉表达你的两个核心能力。",
+        "左右标题与人像分区保持呼应。",
+        "用少量导航让首屏概念保持完整。"
+      ],
+      "en": [
+        "Make a portrait communicate two core skills.",
+        "Align headings with the two halves of the visual.",
+        "Keep navigation small so the hero concept stays intact."
+      ]
+    },
+    "bestFor": {
+      "zh": "双重身份介绍、个人品牌首屏",
+      "en": "Dual-discipline introductions and personal-brand heroes"
+    }
+  },
+  {
+    "id": "daveisnice",
+    "slug": "daveisnice",
+    "name": "Dave is Nice",
+    "author": "David Molina Cavazos",
+    "url": "https://daveisnice.com/",
+    "image": "/previews/daveisnice.webp",
+    "type": "portfolio",
+    "styles": ["bold", "editorial"],
+    "featured": false,
+    "rank": 31,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "深蓝底色与视频作品展示，为剪辑和混合媒介作品建立统一背景。",
+      "en": "A deep blue canvas unifies video editing and mixed-media work."
+    },
+    "takeaways": {
+      "zh": [
+        "统一背景色可以容纳差异很大的视频封面。",
+        "开头直接说明创作领域，减少访客猜测。",
+        "按媒介分类作品，让浏览者快速找到相关项目。"
+      ],
+      "en": [
+        "Use one background color to hold varied video thumbnails together.",
+        "State the creative discipline immediately.",
+        "Organize work by medium so visitors can find relevant projects."
+      ]
+    },
+    "bestFor": {
+      "zh": "视频作品集、混合媒介展示",
+      "en": "Video portfolios and mixed-media collections"
+    }
+  },
+  {
+    "id": "sean",
+    "slug": "sean",
+    "name": "Seán Halpin",
+    "author": "Seán Halpin",
+    "url": "https://www.seanhalpin.xyz/",
+    "image": "/previews/sean.webp",
+    "type": "portfolio",
+    "styles": ["bold", "playful"],
+    "featured": false,
+    "rank": 32,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "柔和渐变、绿色大字与圆润项目块，形成亲切的设计师作品集。",
+      "en": "Soft gradients, green display type, and rounded project panels form an approachable design portfolio."
+    },
+    "takeaways": {
+      "zh": [
+        "在柔和背景上使用清晰的深色主标题。",
+        "让项目封面之间保留足够空隙。",
+        "导航保持紧凑，把页面主体留给作品。"
+      ],
+      "en": [
+        "Put a clearly contrasting heading over a soft background.",
+        "Leave generous room between project covers.",
+        "Keep navigation compact and give the work the main stage."
+      ]
+    },
+    "bestFor": {
+      "zh": "柔和色彩作品集、项目封面",
+      "en": "Soft-color portfolios and project covers"
+    }
+  },
+  {
+    "id": "dennis",
+    "slug": "dennis",
+    "name": "Dennis Snellenberg",
+    "author": "Dennis Snellenberg",
+    "url": "https://dennissnellenberg.com/",
+    "image": "/previews/dennis.webp",
+    "type": "portfolio",
+    "styles": ["typography", "playful"],
+    "featured": false,
+    "rank": 33,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "人物照片、超大姓名与流畅转场，形成直接的创意开发者名片。",
+      "en": "A portrait, oversized name, and fluid transitions create a direct creative-developer identity."
+    },
+    "takeaways": {
+      "zh": [
+        "让人物照片与文字共享首屏，而不是分成两个卡片。",
+        "大字承担品牌识别，小字解释具体服务。",
+        "项目列表的交互可以提供预览，不必始终铺满图片。"
+      ],
+      "en": [
+        "Let portrait and typography share one hero rather than separate cards.",
+        "Use large type for identity and small type for concrete services.",
+        "Use project-list interactions to reveal previews on demand."
+      ]
+    },
+    "bestFor": {
+      "zh": "动态作品集、人物主视觉",
+      "en": "Motion-led portfolios and portrait heroes"
+    }
+  },
+  {
+    "id": "swyx",
+    "slug": "swyx",
+    "name": "swyx",
+    "author": "Shawn Wang",
+    "url": "https://swyx.io/",
+    "image": "/previews/swyx.webp",
+    "type": "blog",
+    "styles": ["editorial", "retro"],
+    "featured": false,
+    "rank": 34,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "温暖纸色、作者介绍与书架式模块，装下写作、节目与长期项目。",
+      "en": "Warm paper tones, a personal introduction, and shelf-like modules hold writing, shows, and ongoing projects."
+    },
+    "takeaways": {
+      "zh": [
+        "将文章、书籍和项目分区，避免单一时间流埋没重点。",
+        "头像与作者介绍建立内容之间的共同身份。",
+        "让经典文章成为长期入口，而非只展示最新内容。"
+      ],
+      "en": [
+        "Separate essays, books, and projects rather than relying on chronology alone.",
+        "Use the author profile to tie diverse content together.",
+        "Keep foundational writing accessible alongside recent work."
+      ]
+    },
+    "bestFor": {
+      "zh": "多栏目作者网站、长期内容索引",
+      "en": "Multi-format author sites and evergreen indexes"
+    }
+  },
+  {
+    "id": "frost",
+    "slug": "frost",
+    "name": "Frost’s Blog",
+    "author": "Frost Ming",
+    "url": "https://frostming.com/",
+    "image": "/previews/frost.webp",
+    "type": "blog",
+    "styles": ["editorial", "minimal"],
+    "featured": false,
+    "rank": 35,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "居中刊头、简洁分类与柔和背景，让中文博客带一点刊物感。",
+      "en": "A centered masthead, simple categories, and soft background give a Chinese blog a publication-like feel."
+    },
+    "takeaways": {
+      "zh": [
+        "让刊头与文章列表共享同一条中轴。",
+        "用轻量分类标签代替复杂导航层级。",
+        "日期与文章标题分开排版，保留阅读节奏。"
+      ],
+      "en": [
+        "Align the masthead and article list to one central axis.",
+        "Use lightweight categories instead of deep navigation.",
+        "Separate dates from headlines to preserve a reading rhythm."
+      ]
+    },
+    "bestFor": {
+      "zh": "中文随笔博客、刊物式列表",
+      "en": "Chinese essay blogs and publication-style indexes"
+    }
+  },
+  {
+    "id": "leerob",
+    "slug": "leerob",
+    "name": "Lee Robinson",
+    "author": "Lee Robinson",
+    "url": "https://leerob.com/",
+    "image": "/previews/leerob.webp",
+    "type": "blog",
+    "styles": ["minimal", "illustration"],
+    "featured": false,
+    "rank": 36,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "文字介绍与彩色城市插画并列，笔记和博客入口直接可见。",
+      "en": "A written introduction sits beside a colorful city illustration, with notes and blog links immediately available."
+    },
+    "takeaways": {
+      "zh": [
+        "用单张强识别插画平衡文字密度。",
+        "笔记按主题分组，长文按时间列出。",
+        "长短介绍切换让不同读者自行选择信息量。"
+      ],
+      "en": [
+        "Balance dense text with one recognizable illustration.",
+        "Group notes by topic and essays by date.",
+        "Let readers choose between a short and long biography."
+      ]
+    },
+    "bestFor": {
+      "zh": "技术作者首页、笔记与博客组合",
+      "en": "Technical author homepages and notes-plus-blog layouts"
+    }
+  },
+  {
+    "id": "paco",
+    "slug": "paco",
+    "name": "Paco Coursey",
+    "author": "Paco Coursey",
+    "url": "https://paco.me/",
+    "image": "/previews/paco.webp",
+    "type": "personal",
+    "styles": ["minimal", "editorial"],
+    "featured": false,
+    "rank": 37,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "几段文字与并列的小型列表，展示对界面细节的关注。",
+      "en": "A few paragraphs and compact parallel lists show an interest in interface craft."
+    },
+    "takeaways": {
+      "zh": [
+        "把正在做的事、项目和写作并列呈现。",
+        "靠字体权重与间距组织层次，不依赖卡片。",
+        "将短描述放在链接旁边，减少跳转前的不确定性。"
+      ],
+      "en": [
+        "Present current work, projects, and writing side by side.",
+        "Build hierarchy through weight and spacing rather than boxes.",
+        "Put brief descriptions beside links to explain the destination."
+      ]
+    },
+    "bestFor": {
+      "zh": "极简开发者主页、轻量索引",
+      "en": "Minimal developer homepages and lightweight indexes"
+    }
+  },
+  {
+    "id": "steph",
+    "slug": "steph",
+    "name": "Steph Ango",
+    "author": "Steph Ango",
+    "url": "https://stephango.com/",
+    "image": "/previews/steph.webp",
+    "type": "blog",
+    "styles": ["minimal", "editorial"],
+    "featured": false,
+    "rank": 38,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "温暖底色与低干扰文字列表，将个人网站变成持续写作的地方。",
+      "en": "A warm canvas and quiet text index make the personal site a place for ongoing writing."
+    },
+    "takeaways": {
+      "zh": [
+        "首页同时介绍作者与最近文章。",
+        "年份分组帮助浏览较长的写作历史。",
+        "短摘要提供阅读线索，而不占满首屏。"
+      ],
+      "en": [
+        "Introduce both the author and the latest essay on the homepage.",
+        "Use year groups to navigate a longer writing history.",
+        "Offer short excerpts without filling the entire opening screen."
+      ]
+    },
+    "bestFor": {
+      "zh": "随笔博客、长期写作归档",
+      "en": "Essay blogs and long-term writing archives"
+    }
+  },
+  {
+    "id": "frank",
+    "slug": "frank",
+    "name": "Frank Chimero",
+    "author": "Frank Chimero",
+    "url": "https://frankchimero.com/",
+    "image": "/previews/frank.webp",
+    "type": "personal",
+    "styles": ["minimal", "dark", "editorial"],
+    "featured": false,
+    "rank": 39,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "暗色画布上的精简目录，把设计、书籍、拼贴与文章串在一起。",
+      "en": "A concise index on a dark canvas connects design, books, collage, and writing."
+    },
+    "takeaways": {
+      "zh": [
+        "把个人站当作作品之间的入口，而不必展示所有细节。",
+        "双栏目录区分作者信息与项目链接。",
+        "用极少的色彩保持文字导航的统一气质。"
+      ],
+      "en": [
+        "Treat the personal site as a hub rather than a place to show every detail.",
+        "Separate author information and project destinations in two columns.",
+        "Use a small palette to unify a text-led index."
+      ]
+    },
+    "bestFor": {
+      "zh": "设计作者入口、跨媒介作品导航",
+      "en": "Designer hubs and cross-medium navigation"
+    }
+  },
+  {
+    "id": "jessica",
+    "slug": "jessica",
+    "name": "Jessica Hische",
+    "author": "Jessica Hische",
+    "url": "https://jessicahische.is/",
+    "image": "/previews/jessica.webp",
+    "type": "portfolio",
+    "styles": ["typography", "illustration", "editorial"],
+    "featured": false,
+    "rank": 40,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "字体作品和书籍封面成为主角，轻巧导航让视觉内容自然展开。",
+      "en": "Lettering and book covers take the lead beneath a light, compact navigation."
+    },
+    "takeaways": {
+      "zh": [
+        "让作品本身的字体承担视觉多样性。",
+        "封面按统一节奏排列，保持浏览秩序。",
+        "简短作者介绍帮助访客理解跨领域创作。"
+      ],
+      "en": [
+        "Let lettering in the work supply visual variety.",
+        "Arrange covers in a consistent rhythm.",
+        "Use a short introduction to connect work across disciplines."
+      ]
+    },
+    "bestFor": {
+      "zh": "字体与插画作品集、书籍展示",
+      "en": "Lettering portfolios, illustration, and book showcases"
+    }
+  },
+  {
+    "id": "rafael",
+    "slug": "rafael",
+    "name": "Rafael Camargo",
+    "author": "Rafael Camargo",
+    "url": "https://rafaelcamargo.com/",
+    "image": "/previews/rafael.webp",
+    "type": "personal",
+    "styles": ["minimal", "playful"],
+    "featured": false,
+    "rank": 41,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "大片留白与简短自我介绍，将注意力集中到作者和几个必要入口。",
+      "en": "Generous whitespace and a short introduction focus attention on the author and a few essential controls."
+    },
+    "takeaways": {
+      "zh": [
+        "首屏只说姓名与正在做的事情。",
+        "语言与主题切换收纳在紧凑工具条中。",
+        "用留白而不是装饰强调主体。"
+      ],
+      "en": [
+        "Limit the opening to a name and a concrete activity.",
+        "Group language and theme controls into a compact toolbar.",
+        "Use space rather than decoration to emphasize the subject."
+      ]
+    },
+    "bestFor": {
+      "zh": "双语个人主页、极简首屏",
+      "en": "Bilingual personal sites and minimal heroes"
+    }
+  },
+  {
+    "id": "robb",
+    "slug": "robb",
+    "name": "Robb Owen",
+    "author": "Robb Owen",
+    "url": "https://robbowen.digital/",
+    "image": "/previews/robb.webp",
+    "type": "portfolio",
+    "styles": ["illustration", "playful"],
+    "featured": false,
+    "rank": 42,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "轻快线条人像与清楚的自我介绍，展示创意开发者的个人风格。",
+      "en": "A light illustrated portrait and clear introduction express a creative developer’s personality."
+    },
+    "takeaways": {
+      "zh": [
+        "用定制人像代替通用装饰图。",
+        "插画配色与标题颜色保持呼应。",
+        "把联系入口留在容易发现的位置。"
+      ],
+      "en": [
+        "Choose a custom portrait over a generic decorative illustration.",
+        "Echo illustration colors in the typography.",
+        "Keep a contact action easy to find."
+      ]
+    },
+    "bestFor": {
+      "zh": "插画个人主页、创意开发者作品集",
+      "en": "Illustrated homepages and creative developer portfolios"
+    }
+  },
+  {
+    "id": "sara",
+    "slug": "sara",
+    "name": "Sara Soueidan",
+    "author": "Sara Soueidan",
+    "url": "https://www.sarasoueidan.com/",
+    "image": "/previews/sara.webp",
+    "type": "personal",
+    "styles": ["minimal", "editorial"],
+    "featured": false,
+    "rank": 43,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "直接的问候、清晰的职业介绍与人物照片，建立可信的专业主页。",
+      "en": "A direct greeting, clear professional introduction, and portrait establish a credible personal site."
+    },
+    "takeaways": {
+      "zh": [
+        "用具体工作内容说明身份，少堆抽象标签。",
+        "让博客、演讲和课程拥有清楚入口。",
+        "保留跳转正文等阅读与键盘使用细节。"
+      ],
+      "en": [
+        "Describe actual work instead of stacking abstract labels.",
+        "Make writing, speaking, and courses easy to locate.",
+        "Retain reading and keyboard details such as skip navigation."
+      ]
+    },
+    "bestFor": {
+      "zh": "专业个人介绍、可访问性参考",
+      "en": "Professional biographies and accessibility references"
+    }
+  },
+  {
+    "id": "andy",
+    "slug": "andy",
+    "name": "Andy Bell",
+    "author": "Andy Bell",
+    "url": "https://andy-bell.co.uk/",
+    "image": "/previews/andy.webp",
+    "type": "personal",
+    "styles": ["minimal", "typography"],
+    "featured": false,
+    "rank": 44,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "大字自我定位与紧凑头像，呈现一个正在迭代的个人网站。",
+      "en": "A bold identity statement and compact portrait introduce a personal site that openly evolves."
+    },
+    "takeaways": {
+      "zh": [
+        "把重要词语用单一强调色突出。",
+        "短段落比履历长列表更适合介绍个人方向。",
+        "将改版记录链接出来，让维护过程也能被阅读。"
+      ],
+      "en": [
+        "Highlight important words with one accent color.",
+        "Use short paragraphs to explain direction rather than a long résumé list.",
+        "Link redesign notes so the evolution is visible."
+      ]
+    },
+    "bestFor": {
+      "zh": "个人介绍、公开迭代记录",
+      "en": "Personal introductions and public redesign notes"
+    }
+  },
+  {
+    "id": "ana",
+    "slug": "ana",
+    "name": "OhHelloAna.blog",
+    "author": "Ana Rodrigues",
+    "url": "https://ohhelloana.blog/",
+    "image": "/previews/ana.webp",
+    "type": "blog",
+    "styles": ["illustration", "retro", "playful"],
+    "featured": false,
+    "rank": 45,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "手绘猫咪、纸片色块与图文入口，把博客做成一本私人剪贴簿。",
+      "en": "A hand-drawn cat, paper-like panels, and illustrated links make the blog feel like a personal scrapbook."
+    },
+    "takeaways": {
+      "zh": [
+        "导航入口也可以拥有各自的小插画。",
+        "不规则色块统一使用柔和色调，避免视觉争抢。",
+        "方格纸背景将不同模块连接成一个画面。"
+      ],
+      "en": [
+        "Give navigation entries their own small illustrations.",
+        "Keep irregular panels in a soft palette so they cooperate.",
+        "Use graph-paper texture to connect separate modules."
+      ]
+    },
+    "bestFor": {
+      "zh": "手账式博客、生活记录",
+      "en": "Scrapbook-style blogs and personal journals"
+    }
+  },
+  {
+    "id": "jason",
+    "slug": "jason",
+    "name": "Jason Lengstorf",
+    "author": "Jason Lengstorf",
+    "url": "https://jason.energy/",
+    "image": "/previews/jason.webp",
+    "type": "personal",
+    "styles": ["bold", "retro", "typography"],
+    "featured": false,
+    "rank": 46,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "紫色影像与醒目的标题，让开发者内容站拥有节目片头般的气氛。",
+      "en": "Purple imagery and assertive lettering give a developer-content site the energy of a show opening."
+    },
+    "takeaways": {
+      "zh": [
+        "背景影像围绕作者的内容主题选择。",
+        "高对比标题确保在复杂背景上仍能读清。",
+        "将导航紧靠定位语，让访客立即知道下一步。"
+      ],
+      "en": [
+        "Choose background imagery that relates to the author’s content.",
+        "Keep headlines readable over a busy visual.",
+        "Place navigation beside the positioning statement."
+      ]
+    },
+    "bestFor": {
+      "zh": "视频作者主页、节目型个人站",
+      "en": "Video-creator homepages and show-oriented sites"
+    }
+  },
+  {
+    "id": "robin",
+    "slug": "robin",
+    "name": "Robin Rendle",
+    "author": "Robin Rendle",
+    "url": "https://robinrendle.com/",
+    "image": "/previews/robin.webp",
+    "type": "blog",
+    "styles": ["retro", "editorial", "playful"],
+    "featured": false,
+    "rank": 47,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "文件夹侧栏与图片墙，把写作和生活片段装进个人档案界面。",
+      "en": "A folder sidebar and photo wall frame writing and everyday moments as a personal archive."
+    },
+    "takeaways": {
+      "zh": [
+        "用文件系统隐喻解释多种内容类型。",
+        "缩略图墙为文字之外的生活记录提供入口。",
+        "侧栏折叠控制让不同屏幕也能集中浏览。"
+      ],
+      "en": [
+        "Use a filesystem metaphor to organize different content types.",
+        "Offer a thumbnail wall for visual everyday notes.",
+        "Let sidebar controls give the content more room."
+      ]
+    },
+    "bestFor": {
+      "zh": "个人档案、图文混合博客",
+      "en": "Personal archives and mixed photo-and-text blogs"
+    }
+  },
+  {
+    "id": "ishadeed",
+    "slug": "ishadeed",
+    "name": "Ahmad Shadeed",
+    "author": "Ahmad Shadeed",
+    "url": "https://ishadeed.com/",
+    "image": "/previews/ishadeed.webp",
+    "type": "personal",
+    "styles": ["editorial", "bold"],
+    "featured": false,
+    "rank": 48,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "场景图与清楚的服务标题，连接设计、工程和教学内容。",
+      "en": "A scene image and clear service heading connect design, engineering, and teaching."
+    },
+    "takeaways": {
+      "zh": [
+        "首屏明确写出提供的能力，而不依赖访客推断。",
+        "将场景图用于建立工作气氛。",
+        "首页、文章、课程和联系入口保持直接。"
+      ],
+      "en": [
+        "State capabilities in the hero rather than asking visitors to infer them.",
+        "Use a scene image to establish a working atmosphere.",
+        "Keep home, writing, courses, and contact directly accessible."
+      ]
+    },
+    "bestFor": {
+      "zh": "设计工程师介绍、教学内容入口",
+      "en": "Design-engineer introductions and educational hubs"
+    }
+  },
+  {
+    "id": "julia",
+    "slug": "julia",
+    "name": "Julia Evans",
+    "author": "Julia Evans",
+    "url": "https://jvns.ca/",
+    "image": "/previews/julia.webp",
+    "type": "blog",
+    "styles": ["retro", "bold", "editorial"],
+    "featured": false,
+    "rank": 49,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "橙色刊头与窄栏文章目录，保留鲜明的独立博客气质。",
+      "en": "An orange masthead and narrow article index preserve a distinctive independent-blog character."
+    },
+    "takeaways": {
+      "zh": [
+        "将品牌色集中在刊头与边缘装饰。",
+        "近期文章列表优先，让回访读者快速找到更新。",
+        "主题分类把大量技术文章变得可以浏览。"
+      ],
+      "en": [
+        "Concentrate the brand color in the masthead and edge accents.",
+        "Prioritize recent posts for returning readers.",
+        "Use topic categories to make a large technical archive browsable."
+      ]
+    },
+    "bestFor": {
+      "zh": "技术文章索引、复古博客",
+      "en": "Technical article indexes and retro blogs"
+    }
+  },
+  {
+    "id": "manuel",
+    "slug": "manuel",
+    "name": "Manu",
+    "author": "Manuel Moreale",
+    "url": "https://manuelmoreale.com/",
+    "image": "/previews/manuel.webp",
+    "type": "blog",
+    "styles": ["minimal", "editorial"],
+    "featured": false,
+    "rank": 50,
+    "verifiedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "description": {
+      "zh": "直接从一篇文章开始，没有复杂首页，阅读本身就是入口。",
+      "en": "The site opens directly into an essay: reading itself becomes the entrance."
+    },
+    "takeaways": {
+      "zh": [
+        "让最新内容直接出现，减少进入正文的步骤。",
+        "窄栏与宽留白让长段落更容易阅读。",
+        "文章结束处再交代作者，保持开头的专注。"
+      ],
+      "en": [
+        "Show the latest writing directly to remove a step before reading.",
+        "Use a narrow measure and wide margins for longer paragraphs.",
+        "Introduce the author after the essay to keep the opening focused."
+      ]
+    },
+    "bestFor": {
+      "zh": "纯写作博客、单篇阅读页面",
+      "en": "Writing-first blogs and focused essay pages"
+    }
+  }
+]
