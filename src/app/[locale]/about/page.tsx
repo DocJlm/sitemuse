@@ -22,7 +22,9 @@ export default async function About({
   return (
     <>
       <section className="page-intro">
-        <p className="eyebrow">ABOUT SITEMUSE</p>
+        <p className="eyebrow">
+          {locale === "zh" ? "关于 SITEMUSE" : "ABOUT SITEMUSE"}
+        </p>
         <h1>{t.aboutTitle}</h1>
         <p>{t.aboutIntro}</p>
       </section>

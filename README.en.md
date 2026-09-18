@@ -1,3 +1,5 @@
+[Live gallery](https://sitemuse-eight.vercel.app/en) · [GitHub](https://github.com/DocJlm/sitemuse)
+
 # SiteMuse
 
 [中文](README.md) | English

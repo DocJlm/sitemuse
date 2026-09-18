@@ -2,6 +2,8 @@
 
 中文 | [English](README.en.md)
 
+[在线浏览](https://sitemuse-eight.vercel.app/zh) · [GitHub](https://github.com/DocJlm/sitemuse)
+
 一个中英文双语的独立网站设计参考库。首版精选 50 个个人主页、博客、作品集与创意实验，每个案例包含真实截图、三个设计借鉴点与来源署名。
 
 ![SiteMuse](public/og.png)

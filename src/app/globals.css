@@ -148,6 +148,7 @@ button {
   margin: 0 0 21px;
 }
 .hero h1 {
+  text-wrap: balance;
   font-size: clamp(36px, 4.5vw, 65px);
   font-weight: 540;
   line-height: 1.25;
@@ -712,6 +713,7 @@ button {
     padding-top: 80px;
   }
   .hero h1 {
+    text-wrap: balance;
     font-size: 68px;
   }
 }
@@ -736,6 +738,7 @@ button {
     display: none;
   }
   .hero h1 {
+    text-wrap: balance;
     font-size: 48px;
   }
   .hero-bottom {
@@ -792,6 +795,7 @@ button {
     padding: 42px 0 32px;
   }
   .hero h1 {
+    text-wrap: balance;
     font-size: 36px;
     letter-spacing: -1px;
     line-height: 1.4;

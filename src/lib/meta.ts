@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import type { Locale } from "./catalog";
 export const baseUrl =
   process.env.NEXT_PUBLIC_SITE_URL ||
-  `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL || "sitemuse.vercel.app"}`;
+  `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL || "sitemuse-eight.vercel.app"}`;
 export function meta(
   locale: Locale,
   title: string,
@@ -12,7 +12,7 @@ export function meta(
 ): Metadata {
   const url = `${baseUrl}/${locale}${path}`;
   return {
-    title,
+    title: { absolute: `${title} | SiteMuse` },
     description,
     metadataBase: new URL(baseUrl),
     alternates: {
@@ -34,7 +34,7 @@ export function meta(
     },
     twitter: {
       card: "summary_large_image",
-      title,
+      title: `${title} | SiteMuse`,
       description,
       images: [image],
     },
